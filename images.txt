@@ -1,3 +1,4 @@
+redis
 neilpang/acme.sh:2.8.7
 neilpang/acme.sh:3.0.0
 neilpang/acme.sh:3.0.6
