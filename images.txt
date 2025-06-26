@@ -1,3 +1,4 @@
+jellyfin/jellyfin
 sanjusss/aliyun-ddns
 redis
 neilpang/acme.sh:2.8.7
