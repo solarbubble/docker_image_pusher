@@ -3,8 +3,6 @@ jellyfin/jellyfin
 sanjusss/aliyun-ddns
 redis
 neilpang/acme.sh:2.8.7
-neilpang/acme.sh:3.0.0
-neilpang/acme.sh:3.0.6
 nginx
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
