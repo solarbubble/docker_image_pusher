@@ -1,5 +1,4 @@
 emby/embyserver
-amilys/embyserver
 jellyfin/jellyfin
 sanjusss/aliyun-ddns
 redis
