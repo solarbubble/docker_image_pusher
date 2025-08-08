@@ -1,3 +1,4 @@
+zishuo/embyserver
 amilys/embyserver
 emby/embyserver
 jellyfin/jellyfin
