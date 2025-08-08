@@ -1,4 +1,3 @@
-lovechen/embyserver
 jellyfin/jellyfin
 sanjusss/aliyun-ddns
 redis
